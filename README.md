@@ -1,7 +1,7 @@
 
 # Permission Management - Demo
 
-Follow the steps below to download, install, and run this project.
+Follow the steps below to download, install, and run this project in the local environment.
 
 ## Dependencies
 Install these prerequisites in order to validate and run the project. 
