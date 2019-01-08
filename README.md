@@ -25,5 +25,6 @@ Open the Ganache GUI client that you downloaded and installed. This will start y
 `$ truffle migrate --reset`
 You must migrate the smart contract each time your restart ganache.
 
-## Step 5. Interact with smart contract through truffle for validation or Run `truffle test` for validation
+## Step 5. Run below command to run the tests and validate the results.
+`$ truffle test`
 
